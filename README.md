@@ -34,6 +34,6 @@ The app integrates with a pizza restaurant API:
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-link.com) | [API Documentation](https://react-fast-pizza-api.onrender.com/api)
+[Live Demo](https://fast-pizza-deli.netlify.app/) | [API Documentation](https://react-fast-pizza-api.onrender.com/api)
 
 ---
